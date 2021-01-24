@@ -1,0 +1,2 @@
+# TestMethod
+test method speed
